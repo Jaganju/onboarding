@@ -1,2 +1,2 @@
 # onboarding
- Onboarding API repository - testing changes via Git
+ Onboarding API repository -  repo in GitHub
